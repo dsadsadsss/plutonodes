@@ -1,7 +1,7 @@
 # plutonodes
 
 
-说明：选择启动脚本名为bedrock_server的项目
+说明：选择启动脚本名为bedrock_server的项目好像是vanilla
 
 你要修改：
 
