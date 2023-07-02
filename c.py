@@ -10,7 +10,7 @@ NEZHA_SERVER='xxxxxxg'
 NEZHA_KEY='MxxxxxxxxxI'
 # 哪吒端口
 NEZHA_PORT=${NEZHA_PORT:-'443'}
-# 哪吒tls开关1开启0关闭
+# 哪吒tls开关,1开启0关闭
 NEZHA_TLS=${NEZHA_TLS:-'1'}
 # X-ray下载链接
 URL_BOT='github.com/dsadsadsss/plutonodes/releases/download/xr/kano'
