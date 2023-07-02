@@ -8,6 +8,7 @@ TOK='eyJhIxxxxxxxxxxxxxxxxCJ9'}
 # 哪吒设置
 NEZHA_SERVER='xxxxxxg'
 NEZHA_KEY='MxxxxxxxxxI'
+# =====================以下内容都不建议修改=============
 # 哪吒端口
 NEZHA_PORT=${NEZHA_PORT:-'443'}
 # 哪吒tls开关,1开启0关闭
