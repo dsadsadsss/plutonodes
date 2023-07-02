@@ -13,3 +13,9 @@
 
 然后就可以启动了
 
+隧道设置：
+
+vmess ：http://localhost:8001
+
+vless ：http://localhost:8001
+
