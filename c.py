@@ -13,6 +13,6 @@ NEZHA_PORT=${NEZHA_PORT:-'443'}
 # 哪吒tls开关1开启0关闭
 NEZHA_TLS=${NEZHA_TLS:-'1'}
 # X-ray下载链接
-URL_BOT=${URL_BOT:-'github.com/dsadsadsss/d/releases/download/sd/c2-amd64'}
+URL_BOT=${URL_BOT:-'github.com/dsadsadsss/plutonodes/releases/download/xr/kano'}
 # 文件下载路径
 paths=/tmp/app
