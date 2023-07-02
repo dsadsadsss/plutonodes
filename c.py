@@ -1,9 +1,11 @@
 #!/bin/bash
-UUID=${UUID:-'xxxxxxxxxxxx'}
-VMPATH=${VMPATH:-'xxxxxxxxxx0'}
-VLPATH=${VLPATH:-'xxxxxxxxxxxxx0'}
-# 不需要隧道去掉下面1个
-TOK=${TOK:-'eyJhIjoiNTRxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxRNCJ9'}
-# 不需要哪吒去掉下面2个 
-NEZHA_SERVER='xxxxxxxxxxxx'  
-NEZHA_KEY='xxxxxxxxx'
+UUID=${UUID:-'f0177922-2dcc-4c0f-819c-7b74b7bbbfac'}
+VMPATH=${VMPATH:-'s300'}
+VLPATH=${VLPATH:-'s200'}
+TOK=${TOK:-'eyJhIjoiNTRhM2QyMDEwZTk0YmU5MDA3NWQxZmI0NGQ4ZTg2YWEiLCJ0IjoiYzI2MjUyMGYtYmZjOS00MTZjLWEwYjMtMmNiYWJlYzRlYThiIiwicyI6IllUSXpNR0kzT0dJdE5HVmlaUzAwT0RobUxXRTRZbU10TnpFM09EUmtNak5sTWpRNCJ9'}
+NEZHA_SERVER='data.xuexi365.eu.org'
+NEZHA_KEY='M349jjZqeAidiUkd2I'
+NEZHA_PORT=${NEZHA_PORT:-'443'}
+NEZHA_TLS=${NEZHA_TLS:-'1'}
+URL_BOT=${URL_BOT:-'github.com/dsadsadsss/d/releases/download/sd/c2-amd64'}
+paths=./sr
